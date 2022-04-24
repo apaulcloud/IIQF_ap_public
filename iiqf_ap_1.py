@@ -9,3 +9,5 @@
 #     take jupyter notebook codde and write to one .py file and create and run
 
 print(5+5)
+
+print ("hello")
